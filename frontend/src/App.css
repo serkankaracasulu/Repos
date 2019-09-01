@@ -1,0 +1,58 @@
+.main-content {
+  margin: 4rem 2.5rem;
+}
+.form-control label,
+.form-control input,
+.form-control textarea {
+  width: 100%;
+  display: block;
+}
+.form-control label {
+  margin-bottom: 0.5rem;
+}
+
+.form-control {
+  margin-bottom: 1rem;
+}
+.form-actions button {
+  background-color: aliceblue;
+  color: blueviolet;
+  font: inherit;
+  border: 1px solid blueviolet;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+.form-actions button:hover,
+.form-actions button:hover {
+  background-color: #cde3f7;
+  color: blueviolet;
+  font: inherit;
+  border: 1px solid blueviolet;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+
+.btn {
+  background-color: aliceblue;
+  color: blueviolet;
+  font: inherit;
+  border: 1px solid blueviolet;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  cursor: pointer;
+}
+.btn:hover {
+  background-color: #cde3f7;
+  color: blueviolet;
+  font: inherit;
+  border: 1px solid blueviolet;
+  border-radius: 4px;
+  padding: 0.5rem 1rem;
+  margin-right: 1rem;
+  cursor: pointer;
+}
